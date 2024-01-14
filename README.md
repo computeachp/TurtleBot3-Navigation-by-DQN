@@ -55,7 +55,7 @@ gazebo ortamını başlatarak oluşturulan haritayı yükler<br><br>
 terminal2:<br>
 "roslaunch tbot3_dqn dqn_1_train.launch", (Mnih vd., 2013) modeline göre eğitimi başlatır.<br>
 "roslaunch tbot3_dqn dqn_2_train.launch", (Mnih vd., 2015) modeline göre eğitimi başlatır.<br>
-"roslaunch tbot3_dqn ddqn_train.launch", (V. Hasselt, 2016) modeline göre eğitimi başlatır.<br>
+"roslaunch tbot3_dqn ddqn_train.launch", (V. Hasselt vd., 2016) modeline göre eğitimi başlatır.<br>
 "roslaunch tbot3_dqn agent_test.launch", test işlemini başlatır.<br><br>
 
 terminal3:<br>
