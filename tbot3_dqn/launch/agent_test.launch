@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="tbot3_dqn" name="agent_test" type="agent_test.py" output="screen" />
+</launch>

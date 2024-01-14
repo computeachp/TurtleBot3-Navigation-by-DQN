@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="tbot3_dqn" name="ddqn_train" type="ddqn_train.py" output="screen" />
+</launch>
