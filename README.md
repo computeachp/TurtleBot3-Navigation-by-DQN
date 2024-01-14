@@ -47,18 +47,18 @@ Bu çalışmada, Derin Pekiştirmeli Öğrenme yöntemlerinden Derin Q Ağları 
 
 <h3>Uygulama:</h3>
 <p>
-terminal penceresi 3 bölüme ayrılarak aşağıdaki başlatma dosyaları ile uygulama çalıştırılır.<br><br>
-terminal1:<br>
+terminal penceresi üç bölüme ayrılarak aşağıdaki başlatma dosyaları ile uygulama çalıştırılır.<br><br>
+<b>terminal1:</b><br>
 "roslaunch tbot3_dqn stage.launch" <br>
 gazebo ortamını başlatarak oluşturulan haritayı yükler<br><br>
 
-terminal2:<br>
+<b>terminal2:</b><br>
 "roslaunch tbot3_dqn dqn_1_train.launch", (Mnih vd., 2013) modeline göre eğitimi başlatır.<br>
 "roslaunch tbot3_dqn dqn_2_train.launch", (Mnih vd., 2015) modeline göre eğitimi başlatır.<br>
 "roslaunch tbot3_dqn ddqn_train.launch", (V. Hasselt vd., 2016) modeline göre eğitimi başlatır.<br>
 "roslaunch tbot3_dqn agent_test.launch", test işlemini başlatır.<br><br>
 
-terminal3:<br>
+<b>terminal3:</b><br>
 "roslaunch tbot3_dqn result_graph.launch", eğitim ya da test grafiklerini oluşturur.<br><br>
 </p>
 
