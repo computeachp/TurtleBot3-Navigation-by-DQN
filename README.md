@@ -62,6 +62,9 @@ gazebo ortamını başlatarak oluşturulan haritayı yükler<br><br>
 "roslaunch tbot3_dqn result_graph.launch", eğitim ya da test grafiklerini oluşturur.<br><br>
 </p>
 
+<h3>Test Videosu</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NijLRuFY-x8?si=TWvKIouWCS-Ryv1P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 # Kaynaklar
 - Playing Atari with Deep Reinforcement Learning (Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, Martin Riedmiller) (2013)
 - Human-level control through deep reinforcement learning (Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A. A., Veness, J., Bellemare, M. G., ... & Hassabis, D.) (2015)
