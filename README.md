@@ -63,7 +63,7 @@ gazebo ortamını başlatarak oluşturulan haritayı yükler<br><br>
 </p>
 
 <h3>Test Videosu</h3>
-<a href="https://www.youtube.com/watch?v=wl5inXl6BeM">DQN ve TurtleBot3 ile Otonom Hareket</a>
+<a href="https://www.youtube.com/watch?v=wl5inXl6BeM" target="_blank">DQN ve TurtleBot3 ile Otonom Hareket</a>
 
 # Kaynaklar
 - Playing Atari with Deep Reinforcement Learning (Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, Martin Riedmiller) (2013)
