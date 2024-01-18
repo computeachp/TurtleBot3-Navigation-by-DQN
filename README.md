@@ -1,7 +1,7 @@
 # Derin Q Ağları (DQN) ile Mobil Robotlarda Otonom Hareket
 (Autonumous Navigation in Mobile Robot with Deep Q Networks)
 
-Bu çalışmada, Derin Pekiştirmeli Öğrenme yöntemlerinden Derin Q Ağları ile TurtleBot3 mobil robotunu eğitilerek Gazebo ortamında otonom hareket planlaması ele alınmaktadır.
+Bu çalışmada, Derin Pekiştirmeli Öğrenme yöntemlerinden Derin Q Ağları ile TurtleBot3 mobil robotu eğitilerek Gazebo ortamında otonom hareket planlaması ele alınmaktadır.
 <h3>Kullanılan Araçlar:</h3>
 <ul>
   <li>Ubuntu 18.04 LTS</li>
