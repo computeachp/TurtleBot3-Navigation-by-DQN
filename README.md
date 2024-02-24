@@ -62,8 +62,10 @@ gazebo ortamını başlatarak oluşturulan haritayı yükler<br><br>
 "roslaunch tbot3_dqn result_graph.launch", eğitim ya da test grafiklerini oluşturur.<br><br>
 </p>
 
+<h3>Eğitim Videosu</h3>
+<a href="https://youtu.be/SYkzye9sbSY" target="_blank">DQN ile TurtleBot3 Otonom Hareket Eğitimi</a>
 <h3>Test Videosu</h3>
-<a href="https://www.youtube.com/watch?v=wl5inXl6BeM" target="_blank">DQN ve TurtleBot3 ile Otonom Hareket</a>
+<a href="https://www.youtube.com/watch?v=wl5inXl6BeM" target="_blank">DQN ile TurtleBot3 Otonom Hareket Test İşlemi</a>
 
 # Kaynaklar
 - Playing Atari with Deep Reinforcement Learning (Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, Martin Riedmiller) (2013)
